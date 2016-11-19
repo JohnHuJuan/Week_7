@@ -10,7 +10,8 @@
     tools:context="com.example.administrator.week_7.MainActivity">
 
     <TextView
+        android:id="@+id/tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="更新了" />
 </RelativeLayout>
